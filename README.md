@@ -134,6 +134,9 @@ webpack-dev-server
 
 注意浏览器的访问的bundle.js   以及缓存和编译延迟问题。需要实时更新界面的 
   请自行查阅webpack-dev-server实时监听文件变化。
+  
+  
+  csdn:http://blog.csdn.net/u013233097/article/details/77969312
 
 
 
